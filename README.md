@@ -11,3 +11,5 @@ pnpm install
 ```shell
 pnpm run dev
 ```
+# 项目配置
+Vue3 + Vite + TypeScript + Pinia +	Ant Design Vue + Axios + Pnpm
